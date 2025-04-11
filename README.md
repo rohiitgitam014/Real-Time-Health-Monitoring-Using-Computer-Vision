@@ -1,4 +1,5 @@
 Health Monitoring Using Computer Vision
+
 1. Executive Summary
 This project presents an innovative health assessment tool using real-time video analysis and machine learning. By analyzing facial cues through a webcam, it predicts whether an individual is "Healthy" or "Unwell". This non-invasive approach has wide applicability in healthcare, fitness, and workplace safety.
 
@@ -73,4 +74,3 @@ Complete business + technical report
 
 10. Conclusion
 This project offers a low-cost, real-time, AI-driven health monitoring solution that is practical, scalable, and potentially transformative in the domains of healthcare and personal wellness.
-
